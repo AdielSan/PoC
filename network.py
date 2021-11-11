@@ -15,3 +15,11 @@ net.addP4Switch('s5')
 net.addHost('h2')
 
 net.addLink("", "")
+
+
+#Opção gerais dos nós
+net.enableCpuPortAll()
+net.disablePcapDumpAll()
+net.disableLogAll()
+net.enableCli()
+net.startNetwork()
