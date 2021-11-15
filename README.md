@@ -14,9 +14,9 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 
 ## Requisitos:
 
+* Software
 A proposta depende dos seguintes programas para funcionar:
 
-* Software
 1. [P4-Utils](https://github.com/nsg-ethz/p4-utils)
 2. [PI LIBRARY REPOSITORY](https://github.com/p4lang/PI) **is required only for topologies with
    P4Runtime switches**
