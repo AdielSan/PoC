@@ -15,7 +15,10 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 ## Requisitos:
 
 P4-Utils depends on the following programs in the given order:
+* Hardware
 
+
+* Software
 1. [PI LIBRARY REPOSITORY](https://github.com/p4lang/PI) **is required only for topologies with
    P4Runtime switches**
 2. [BEHAVIORAL MODEL (bmv2)](https://github.com/p4lang/behavioral-model)
@@ -26,19 +29,11 @@ P4-Utils depends on the following programs in the given order:
 
 
 ## Requisitos:
-* Hardware
+
 - 200 GB de espaço em disco
 - 32 GB de memória RAM
 - Processadores intel Xeon E5-2630 2.60GHz (ou similar)
 
-* Software
-- Sistema operacional Linux (testado no ubuntu).
-- Virtualbox
-- Vagrant
-- Ansible
--
--
--
 
 ## Topologia
 
