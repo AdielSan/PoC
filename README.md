@@ -14,18 +14,23 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 
 ## Requisitos:
 
+A proposta depende dos seguintes programas para funcionar:
+
+* Software
+1. [P4-Utils] (https://github.com/nsg-ethz/p4-utils)
+2. [PI LIBRARY REPOSITORY](https://github.com/p4lang/PI) **is required only for topologies with
+   P4Runtime switches**
+3. [BEHAVIORAL MODEL (bmv2)](https://github.com/p4lang/behavioral-model)
+4. [p4c](https://github.com/p4lang/p4c)
+5. [Mininet](https://github.com/mininet/mininet)
+6. [FRRouting](https://github.com/FRRouting/FRR) **is required
+   only for topologies with routers**
+
 P4-Utils depends on the following programs in the given order:
 * Hardware
 
 
-* Software
-1. [PI LIBRARY REPOSITORY](https://github.com/p4lang/PI) **is required only for topologies with
-   P4Runtime switches**
-2. [BEHAVIORAL MODEL (bmv2)](https://github.com/p4lang/behavioral-model)
-3. [p4c](https://github.com/p4lang/p4c)
-4. [Mininet](https://github.com/mininet/mininet)
-5. [FRRouting](https://github.com/FRRouting/FRR) **is required
-   only for topologies with routers**
+
 
 
 ## Requisitos:
