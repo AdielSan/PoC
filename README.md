@@ -9,7 +9,7 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 
 ## Arquitetura Proposta
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](/imagens/Foto-InicioDim-Videos.jpg)
 
 
 ## Requisitos:
