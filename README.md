@@ -27,12 +27,7 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 
 ## Arquitetura Proposta
 
-![alt text](/imagens/Foto-InicioDim-Videos.jpg)
-
-![alt text](http://url/to/img.png)
-
-[[https://github.com/AdielSan/PoC-sbrc2022/tree/teste/imagens/Foto-InicioFim-Videos.jpg|alt=octocat]]
-
+![alt text](https://lh3.googleusercontent.com/h6hvpkraMauFOUxiNCdCdmNw3bfDV0hwZ1XhM8SLeNZtOpH7QJjZH-MeW4ueIWcisYkpq74EHork85VAO_rBrADSw2uGaT027cwGBmxe9mj-KssuEG4LOaC0gQgFT0Ku-pRvw8jocOO4hTE73LBB16LXkgzlL1g_-w7WnU_YaqeSjf95RlsI06xuzmafW_2A9SWGSH0Ye680hxIgKqp2aIssGyiFQcuL2veqm0cL23EnKp5ySdCzhjwBNjvHxCIXPNMlbn1TgV_1a9DpFW-gVi3TfOofyVNtsVq1p2Sql4cJcLfWUJkyZJ1hQ1Ob_GC5qSp5AFrqfYkPEyUqbahWq9J-8-P7H3KE-b7oA-nnpUuRJXI3Ga__QFuHzPhLyj77vAk6ZkF3Luf5lvtWKAa8QcjaoasdqYgABkt5jRVb1MsXigqdE5gaYj3fgAyfJp6BMog9YqqYDEVSJ7US3Hlf8LvTfvFpVrIss_eJv0Ls-N-2CxGNsD5oVxPBaOpWJiIkafH9fm7m9YH9SkdQNxNYIw4vyr_sWCpnHEvb0Ran55mVmJRJ4RQVFCIXVWiK_9F8zp_ZR8KoXfQJQl5XYtsOz4VO92tPdDOKvpZTSwjaalyutrv29fmOckFIc3F3oN6OOij5frKMSNVkhxLPD5wLLKxWv1uLqJkxCBoJ4XTRdlQIA4c2ZbUzuuv6MJBYM38l_NXChDNZtohtAbFBA4TAh6jy=w533-h572-no?authuser=0)
 
 ### 🛠 Tecnologias
 
