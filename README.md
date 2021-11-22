@@ -1,4 +1,3 @@
-## Nome do Projeto
 <h1 align="center">Nome do Projeto</h1>
 
 ## Descrição do Projeto
