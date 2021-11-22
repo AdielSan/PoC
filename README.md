@@ -7,21 +7,24 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 </p>
 
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> •
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#contribuicao">Contribuição</a> •
+ <a href="#licenc-a">Licença</a> •
+ <a href="#autor">Autor</a>
+</p>
+
+<h4 align="center">
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
+### Features
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
 
 ## Desafio
 - Distribuir da melhor forma possível modelos de aprendizado de máquina na rede.
@@ -36,20 +39,15 @@ Tabela de conteúdos
 [[https://github.com/AdielSan/PoC-sbrc2022/tree/teste/imagens/Foto-InicioFim-Videos.jpg|alt=octocat]]
 
 
-## Requisitos:
+### 🛠 Tecnologias
 
-* Software
-A proposta depende dos seguintes programas para funcionar:
-
+As seguintes ferramentas foram usadas na construção do projeto:
 1. [P4-Utils](https://github.com/nsg-ethz/p4-utils)
-2. [PI LIBRARY REPOSITORY](https://github.com/p4lang/PI) **is required only for topologies with
-   P4Runtime switches**
+2. [PI LIBRARY REPOSITORY](https://github.com/p4lang/PI)
 3. [BEHAVIORAL MODEL (bmv2)](https://github.com/p4lang/behavioral-model)
 4. [p4c](https://github.com/p4lang/p4c)
 5. [Mininet](https://github.com/mininet/mininet)
-6. [FRRouting](https://github.com/FRRouting/FRR) **is required
-   only for topologies with routers**
-
+6. [FRRouting](https://github.com/FRRouting/FRR)
 
 Para mais informações veja:
 
