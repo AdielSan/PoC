@@ -86,5 +86,5 @@ P4-Utils depends on the following programs in the given order:
 
 Feito com ❤️ por Adiel Nascimento 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/adiel-dos-santos-nascimento-7a3552140/)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiel-dos-santos-nascimento-7a3552140/)](https://www.linkedin.com/in/adiel-dos-santos-nascimento-7a3552140/)
 [![Gmail Badge](https://img.shields.io/badge/-adieltab16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adieltab16@gmail.com)](mailto:adieltab16@gmail.com)
