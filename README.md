@@ -17,14 +17,9 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 </p>
 
 <h4 align="center">
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧🚀 Em construção...  🚧
 </h4>
 
-### Features
-
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
 
 ## Desafio
 - Distribuir da melhor forma possível modelos de aprendizado de máquina na rede.
@@ -79,3 +74,17 @@ P4-Utils depends on the following programs in the given order:
 
 
 ## Passo a passo para executar a PoC
+
+### Autor
+---
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Adiel Nascimento</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+
+
+Feito com ❤️ por Adiel Nascimento 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/adiel-dos-santos-nascimento-7a3552140/)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:adieltab16@gmail.com)
