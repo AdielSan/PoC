@@ -22,8 +22,8 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 
 
 ### Desafios
-👉 Distribuir da melhor forma possível modelos de aprendizado de máquina na rede.
-👉 Considerar a capacidade de cada dispositivo em uma rede com configurações heterogênias.
+👉 Distribuir da melhor forma possível modelos de aprendizado de máquina na rede. <br />
+👉 Considerar a capacidade de cada dispositivo em uma rede com configurações heterogênias. <br />
 
 ### Arquitetura Proposta
 
