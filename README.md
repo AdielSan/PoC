@@ -51,14 +51,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Para mais informações veja:
 
-  - [Mininet](http://mininet.org/)
-  - [Linux Namespaces](https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/)
-  - [Virtual ethernet interfaces](http://man7.org/linux/man-pages/man4/veth.4.html)
-  - [BMV2](https://github.com/p4lang/behavioral-model)
-  - [p4runtime-shell](https://github.com/p4lang/p4runtime-shell)
-  - [FRRouting](https://frrouting.org/)
-  - [OVS](https://www.openvswitch.org/)
-  - [LinuxBridge](https://cloudbuilder.in/blogs/2013/12/02/linux-bridge-virtual-networking/)
+- [Mininet](http://mininet.org/)
+- [Linux Namespaces](https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/)
+- [Virtual ethernet interfaces](http://man7.org/linux/man-pages/man4/veth.4.html)
+- [BMV2](https://github.com/p4lang/behavioral-model)
+- [p4runtime-shell](https://github.com/p4lang/p4runtime-shell)
+- [FRRouting](https://frrouting.org/)
+- [OVS](https://www.openvswitch.org/)
+- [LinuxBridge](https://cloudbuilder.in/blogs/2013/12/02/linux-bridge-virtual-networking/)
 
 
 P4-Utils depends on the following programs in the given order:
