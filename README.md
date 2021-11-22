@@ -32,7 +32,7 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 ### 🛠 Tecnologias
 ⚙️Software
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção do projeto: <br />
 👉 [P4-Utils](https://github.com/nsg-ethz/p4-utils) <br />
 👉 [PI LIBRARY REPOSITORY](https://github.com/p4lang/PI) <br />
 👉 [BEHAVIORAL MODEL (bmv2)](https://github.com/p4lang/behavioral-model) <br />
@@ -51,7 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 👉 [OVS](https://www.openvswitch.org/) <br />
 👉 [LinuxBridge](https://cloudbuilder.in/blogs/2013/12/02/linux-bridge-virtual-networking/) <br />
 
-🖥️ Hardware
+🖥️ Hardware <br />
 👉 200 GB de espaço em disco <br />
 👉 32 GB de memória RAM <br />
 👉 Processadores intel Xeon E5-2630 2.60GHz (ou similar) <br />
