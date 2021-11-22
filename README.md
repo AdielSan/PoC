@@ -20,7 +20,7 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 </h4>
 
 
-### 🚀 Desafios
+### 🚀 Objetivo
 👉 Distribuir da melhor forma possível modelos de aprendizado de máquina na rede. <br />
 👉 Considerar a capacidade de cada dispositivo em uma rede com configurações heterogênias. <br />
 
@@ -60,7 +60,7 @@ As seguintes ferramentas foram usadas na construção do projeto: <br />
 ## 📡 Topologia
 ![alt text](https://lh3.googleusercontent.com/YEMB4x4TSH36uyQ-ihPRzepFtlA3T7BOHf2YDb5grbUMD9N2E6KRF18-EjQM2gf3JkqfeoNoeKtI04goJWGtBUwGnRXSgcjDdCPzbiBTc9q5m2mwWBWvcp0GeKc8poD5MDij4WOJuI3lM4zXiofC9GMd-58UmTZN5ciWnBto5NPKZHG83Qx-1VwpRQ5uMFmToIKRJHWOqQqO_oCOPn5RakQ_hR9nUk6nA8TynWWuAoYNU6GV9FNPllBtvtPoUFwJFperbHhAEFWyBCssGc-bJMBSMsSJNf3aBjmpCpdLQmb0REM7vOq556SK1Nfew0P9BzwG6aQ9exFUVfh2oAyJnBH9aCveB6prHURhrvgpCFYJZHg0_TWGPr5H7k9DOH_SNcTZlzT6GAFAcbaYoz2jDGvdxpZ0UuS9s2uzr8ikfyx3ug1NmyA1GgK4is8PSCNtthH3Piucpf30qrnIcvnkMO3x5f2EUJA6mSSBmkzxkmJfqbQ4osoXUlRVy1A2uYuEDRYh0GwIJetmGpyqfeVexHptPOFly32dNOoCozSvhMUbrDAzrGyQj9f9waZ_6MHoF-WdbYGvC07nG4m1wvgy7eCUG7laZM8tT74LcIPwqAyEDW2w0xzI4BWc9R3IqmDT0qSdBTY-vBAQzfeR1WNPx37T5OP0LXK3JhDpgExgsXPelD5Ykp8cdvnQQDJB2XMXgkwRi_Rlnn8-PFuugMmPSvXt=w533-h571-no?authuser=0)
 
-## 📝 Passo a passo 
+## 📝 Passo a passo
 
 ### 🧔‍ Autor
 
