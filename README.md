@@ -36,7 +36,7 @@ Repositório público contendo a infraestrutura utilizada na Prova de Conceito (
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+⚒️ As seguintes ferramentas foram usadas na construção do projeto:
 1. [P4-Utils](https://github.com/nsg-ethz/p4-utils)
 2. [PI LIBRARY REPOSITORY](https://github.com/p4lang/PI)
 3. [BEHAVIORAL MODEL (bmv2)](https://github.com/p4lang/behavioral-model)
@@ -44,7 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 5. [Mininet](https://github.com/mininet/mininet)
 6. [FRRouting](https://github.com/FRRouting/FRR)
 
-Para mais informações veja:
+🔗 Para mais informações veja:
 
 - [Mininet](http://mininet.org/)
 - [Linux Namespaces](https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/)
